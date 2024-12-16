@@ -1,0 +1,7 @@
+Visitors who have taken the ride:
+Name, Age, ID
+Alice, 25, V001
+Bob, 30, V002
+Charlie, 22, V003
+David, 35, V004
+Vincent, 29, V005
