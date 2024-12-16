@@ -1,0 +1,64 @@
+Visitors in the queue:
+Alice
+Bob
+Charlie
+David
+Vincent
+Charlie has been removed from the queue.
+Visitors in the queue:
+Alice
+Bob
+David
+Vincent
+Alice has been added to the ride history.
+Bob has been added to the ride history.
+David has been added to the ride history.
+Vincent has been added to the ride history.
+Is Alice in the ride history? true
+Number of visitors in ride history: 4
+Visitors who have taken the ride:
+Alice
+Bob
+David
+Vincent
+Before sorting:
+Visitors who have taken the ride:
+Alice
+Bob
+David
+Vincent
+Ride history sorted by name and age.
+After sorting:
+Visitors who have taken the ride:
+Alice
+Bob
+David
+Vincent
+Queue before cycle:
+Visitors in the queue:
+Alice
+Bob
+David
+Vincent
+Frank
+Grace
+Hannah
+Isaac
+Jack
+Alice is now on the Roller Coaster
+Bob is now on the Roller Coaster
+David is now on the Roller Coaster
+Ride cycle completed. Total cycles: 1
+Queue after cycle:
+Visitors in the queue:
+Vincent
+Frank
+Grace
+Hannah
+Isaac
+Jack
+Visitors who have taken the ride:
+Alice
+Bob
+David
+Vincent
